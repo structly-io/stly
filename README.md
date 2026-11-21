@@ -6,6 +6,8 @@ Query and manage your Structly catalog from your terminal or coding agent.
 - Work with structured JSON input and output.
 - Preview requests with `--dry-run` before making changes.
 
+To set up your coding agent, give it the [Structly agent setup prompt](https://docs.structly.io/agent-setup/prompt.md) and ask it to follow the instructions.
+
 Install on macOS with Homebrew:
 
 ```sh
