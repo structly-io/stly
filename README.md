@@ -50,5 +50,5 @@ find a command and `stly schema apis list` to inspect its JSON schema. CLI-autho
 help, guidance, and errors are in English; server responses and user data retain
 their original content.
 
-Supports Apple Silicon and Intel Macs. See the [installation guide](https://docs.structly.io/en/stly/install/)
+Requires an Apple Silicon Mac; Intel Macs are not supported. See the [installation guide](https://docs.structly.io/en/stly/install/)
 for setup and updates, or download binaries from [Releases](https://github.com/structly-io/stly/releases).
