@@ -39,14 +39,14 @@ Sign in and explore your catalog:
 
 ```sh
 stly auth login
-stly apis list --fields id,name
+stly services list --fields id,name
 stly --help
-stly apis --help
-stly apis list --help
+stly services --help
+stly services list --help
 ```
 
-Run `stly` for a short getting-started guide. Use `stly cli search "find an API"` to
-find a command and `stly schema apis list` to inspect its JSON schema. CLI-authored
+Run `stly` for a short getting-started guide. Use `stly cli search "find an Endpoint"` to
+find a command and `stly schema services list` to inspect its JSON schema. CLI-authored
 help, guidance, and errors are in English; server responses and user data retain
 their original content.
 
